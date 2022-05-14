@@ -1,4 +1,4 @@
-# Web Development Challenges
+# The Challenge Wiki
 A repository of challenges to complete for education and portfolio pieces
 
 ## Purpose
@@ -7,6 +7,6 @@ The purpose of this repo is to create challenge pieces for anybody to complete i
 
 ## Contributing
 
-If you have an idea for a challenge feel free to make a pull request to the main branch of this repository.
+If you have an idea for a challenge feel free to navigate over the issues page and submit it there! Once the challenge has been reviewed, it can be added to the wiki.
 
-Branch off of main, create a folder with the name of your challenge, then create a README.md file using the template provided in the template folder.
+If you see something that is incorrect, such as a typo or something that needs to be adjusted, you can also make a bug report.
